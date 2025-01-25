@@ -1,0 +1,62 @@
+#main-body{
+  height: 100vh;
+}
+
+
+#main-body>#inner-body{
+  border-radius: 1rem;
+  height: 40rem;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1), 0rem 1rem 3rem rgba(0, 0, 0, 0.08);
+}
+
+
+#icon{
+  color: rgb(255, 221, 0);
+}
+
+
+
+#inner-body>#location-text>p{
+  font-size: 1.6rem;
+  color: white;
+  font-weight: 300;
+  padding-top: 1rem;
+}
+
+
+#weather-icon{
+  width: 70%;
+  aspect-ratio: 1;
+}
+
+
+
+#temprature>p{
+  font-size: 4.5rem;
+  color: white;
+  font-weight: 300;
+}
+
+
+#weather-state{
+  border-radius: 1rem;
+  height: 4.5rem;
+}
+
+
+#weather-state>p{
+  font-size: 2rem;
+  color: white;
+}
+
+
+#date-time{
+  background-color: #961FE0;
+  border-radius: 1rem;
+}
+
+#date-time>p{
+  font-size: 1.5rem;
+  font-weight: 200;
+  color: white;
+}
